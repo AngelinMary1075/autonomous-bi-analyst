@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+
+# Anaconda
+.conda/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Database & Visualizations
+data/business_data.db
+static/*.png
